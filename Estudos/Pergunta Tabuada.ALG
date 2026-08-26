@@ -3,8 +3,8 @@ Algoritmo "semnome"
 Var
    i, y, tabuada : inteiro
 Inicio
-   Para i de 1 ate 10 faça
-      para y de 1 ate 10 faça
+   Para i de 1 ate 10 faÃ§a
+      para y de 1 ate 10 faÃ§a
          Escreval (y, " x", i, " =", y*i)
       fimpara
    fimpara
