@@ -14,19 +14,19 @@ Inicio
    Leia (c)
 
    delta <- b^2 - 4 * a * c
-   Se (Delta < 0) então
-      Escreval ("É uma conta impossivel")
+   Se (Delta < 0) entÃ£o
+      Escreval ("Ã‰ uma conta impossivel")
 Fimalgoritmo
 Fimse
 raizmais <- (-b + raizq(delta)) / 2 * a
 raizmenos <- (-b - raizq(delta)) / 2 * a
 
-Se (raizmais = raizmenos) então
-   Escreval ("A raiz quadrada exata é", raizmenos)
-Senão
-   Escreval ("Não é uma raiz quadrada exata")
-   Escreval ("O valor de mais é", raizmais:2:2)
-   Escreval ("O valor de menos é", raizmenos:2:2)
+Se (raizmais = raizmenos) entÃ£o
+   Escreval ("A raiz quadrada exata Ã©", raizmenos)
+SenÃ£o
+   Escreval ("NÃ£o Ã© uma raiz quadrada exata")
+   Escreval ("O valor de mais Ã©", raizmais:2:2)
+   Escreval ("O valor de menos Ã©", raizmenos:2:2)
 Fimse
 
 Fimalgoritmo
