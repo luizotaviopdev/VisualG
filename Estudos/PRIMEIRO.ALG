@@ -5,10 +5,10 @@ Var
       Idade : inteiro
 
 Inicio
-      Escreva("Ol·, qual È o seu nome?")
+      Escreva("Ol√°, qual √© o seu nome?")
       Leia(Nome)
       Escreva("qual a sua idade?")
       leia (Idade)
-      Escreval("Seu nome È ",nome)
-      Escreval("Sua idade È",idade)
+      Escreval("Seu nome √© ",nome)
+      Escreval("Sua idade √©",idade)
 Fimalgoritmo
