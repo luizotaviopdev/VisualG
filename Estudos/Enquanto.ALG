@@ -7,16 +7,16 @@ Var
 Inicio
 
    limpatela
-   Escreval ("Selecione uma das opções")
+   Escreval ("Selecione uma das opÃ§Ãµes")
    Escreval ("1 - fale com um atendente")
    Escreval ("2 - Cancelar assinatura")
    Escreval ("3 - Renovar assinatura")
    Escreval ("4 - Reporte um bug")
    leia (resposta)
-   Enquanto (resposta <= 0) ou (resposta > 4) faça
+   Enquanto (resposta <= 0) ou (resposta > 4) faÃ§a
       limpatela
-      Escreval ("Você errou, tente novamente")
-      Escreval ("Selecione uma das opções")
+      Escreval ("VocÃª errou, tente novamente")
+      Escreval ("Selecione uma das opÃ§Ãµes")
       Escreval ("1 - fale com um atendente")
       Escreval ("2 - Cancelar assinatura")
       Escreval ("3 - Renovar assinatura")
@@ -40,7 +40,7 @@ Inicio
       limpatela
       Escreval ("Muito obrigado, isso nos ajuda a melhorar")
    Outrocaso
-      Escreval ("Ops, parece que você errou! Pressione enter para voltar")
+      Escreval ("Ops, parece que vocÃª errou! Pressione enter para voltar")
       leia (enter)
    fimescolha
 
