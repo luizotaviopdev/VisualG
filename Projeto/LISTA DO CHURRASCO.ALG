@@ -88,7 +88,7 @@ Inicio
       Limpatela
 
 
-      Escreval ("Informe o preço do produto")
+      Escreval ("Informe o preÃ§o do produto")
       Leia (item.preco[troca])
       Limpatela
 
@@ -117,7 +117,7 @@ Inicio
          Limpatela
 
 
-         Escreval ("Informe o preço do produto")
+         Escreval ("Informe o preÃ§o do produto")
          Leia (item.preco[c])
          Limpatela
 
