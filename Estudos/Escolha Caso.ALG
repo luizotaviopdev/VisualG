@@ -6,7 +6,7 @@ Var
 Inicio
    Repita
       Limpatela
-      Escreval("Por favor, Selecione uma opção")
+      Escreval("Por favor, Selecione uma opÃ§Ã£o")
       Escreval("1 - Renovar Assinatura")
       Escreval("2 - Converse com um dos nossos atendentes")
       Escreval("3 - Cancelar Assinatura")
@@ -20,7 +20,7 @@ Inicio
       Caso 3
          Escreval("Sua assinatura foi cancelada!")
       Outrocaso
-         Escreval("Opção inválida")
+         Escreval("OpÃ§Ã£o invÃ¡lida")
       Fimescolha
    Ate (opcao >= 1) E (opcao <= 3)
 
