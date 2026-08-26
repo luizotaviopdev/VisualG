@@ -10,26 +10,26 @@ Inicio
    nome2 <- "bill"
    nome3 <- "receba"
    nome4 <- "amostradin"
-   nome5 <- "ticolé"
+   nome5 <- "ticolÃ©"
 
    //nomes[1] <- "baia"
    //nomes[2] <- "bill"
    //nomes[3] <- "receba"
    //nomes[4] <- "amostradin"
-   //nomes[5] <- "ticolé"
+   //nomes[5] <- "ticolÃ©"
 
-   //Escreval ("escreva a posição com o respectivo nome ue voce quer")
+   //Escreval ("escreva a posiÃ§Ã£o com o respectivo nome ue voce quer")
    //Leia (posicao)
-   //Escreval ("Esse é o nome que voce escolheu: ",nomes[posicao])
+   //Escreval ("Esse Ã© o nome que voce escolheu: ",nomes[posicao])
 
-   para i de 1 ate 3 faça
-      para y de 1 ate 3 faça
+   para i de 1 ate 3 faÃ§a
+      para y de 1 ate 3 faÃ§a
          Escreval ("Informe o Nome para a linha ", i," coluna", y)
          leia(nomes[i,y])
       fimpara
    fimpara
-   para i de 1 ate 3 faça
-      para y de 1 ate 3 faça
+   para i de 1 ate 3 faÃ§a
+      para y de 1 ate 3 faÃ§a
          Escreval ("O nome ", nomes[i,y]," se localiza na linha", y, " na coluna", i)
       fimpara
    fimpara
