@@ -20,13 +20,13 @@ FimFuncao
 
 Inicio
 
-   EscrevaL ("Escreva úm número")
+   EscrevaL ("Escreva Ãºm nÃºmero")
    Leia (Pri)
-   EscrevaL ("Escreva outro número")
+   EscrevaL ("Escreva outro nÃºmero")
    Leia (Seg)
 
    res <- somar (pri, seg)
 
-   EscrevaL ("O valor da soma dos dois números é:", res)
+   EscrevaL ("O valor da soma dos dois nÃºmeros Ã©:", res)
 
 FimAlgoritmo
