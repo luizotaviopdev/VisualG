@@ -7,7 +7,7 @@ Var
 Inicio
    Repita
       limpatela
-      Escreval ("Selecione uma das opções")
+      Escreval ("Selecione uma das opÃ§Ãµes")
       Escreval ("1 - fale com um atendente")
       Escreval ("2 - Cancelar assinatura")
       Escreval ("3 - Renovar assinatura")
@@ -28,7 +28,7 @@ Inicio
          limpatela
          Escreval ("Muito obrigado, isso nos ajuda a melhorar")
       Outrocaso
-         Escreval ("Ops, parece que você errou! Pressione enter para voltar")
+         Escreval ("Ops, parece que vocÃª errou! Pressione enter para voltar")
          leia (enter)
       fimescolha
    ate (resposta >= 1) e (resposta <= 4)
