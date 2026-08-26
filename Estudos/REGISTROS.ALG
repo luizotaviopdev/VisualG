@@ -17,10 +17,10 @@ Inicio
    //Leia (paciente[1].idade)
    //Escreval ("Seu peso")
    //Leia (paciente[1].peso)
-   //Escreval ("Seu nome é ",paciente.nome," Sua idade é",paciente.idade," e seu peso é",paciente.peso)
+   //Escreval ("Seu nome Ã© ",paciente.nome," Sua idade Ã©",paciente.idade," e seu peso Ã©",paciente.peso)
 
-   Para x de 1 até 3 faça
-      Para y de 1 ate 3 faça
+   Para x de 1 atÃ© 3 faÃ§a
+      Para y de 1 ate 3 faÃ§a
          Escreval ("Escreva o nome do aluno da linha ", X," Coluna", y)
          Leia (Aluno[x,y].nome)
          Escreval ("Escreva a idade do aluno da linha", X," Coluna", y)
@@ -30,9 +30,9 @@ Inicio
          limpatela
       fimpara
    fimpara
-   para X de 1 até 3 faça
-      para Y de 1 até 3 faça
-         Escreval ("O aluno na linha ", X," e coluna", y," se chama ", Aluno[x,y].nome," Sua idade é", Aluno[x,y].idade," e pesa", Aluno[x,y].peso," quilos.")
+   para X de 1 atÃ© 3 faÃ§a
+      para Y de 1 atÃ© 3 faÃ§a
+         Escreval ("O aluno na linha ", X," e coluna", y," se chama ", Aluno[x,y].nome," Sua idade Ã©", Aluno[x,y].idade," e pesa", Aluno[x,y].peso," quilos.")
       fimpara
    fimpara
 Fimalgoritmo
