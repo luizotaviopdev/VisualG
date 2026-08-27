@@ -61,3 +61,7 @@ O programa permite:
 - Calcular automaticamente o valor total de cada item
 
 O projeto utiliza vetores de registros e procedimentos para organizar as diferentes operações do programa.
+
+---
+
+Fim.
